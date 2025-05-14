@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @station0master1
-- 👀 I’m interested in ...1
-- 🌱 I’m currently learning ...1
-- 💞️ I’m looking to collaborate on ...1
-- 📫 How to reach me ...1
-- 😄 Pronouns: ...1
-- ⚡ Fun fact: ...1
-
-<!---
-station0master1/station0master1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这我学编程抄的代码，还有很多不懂，但还是往前迈进了一步
