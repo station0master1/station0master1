@@ -1,0 +1,4 @@
+E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/MusicPlayer.dir
+E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/INSTALL.dir
+E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/ALL_BUILD.dir
+E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^E:\QT PROJECT\MUSICPLAYER\BUILD\DESKTOP_X86_WINDOWS_MSVC2022_PE_64BIT-RELEASE\CMAKEFILES\05239AB58FA92ACA9DFD49215EF2C6A5\GENERATE.STAMP.RULE
+setlocal
+E:\QT\Tools\CMake_64\bin\cmake.exe "-SE:/qt project/MusicPlayer" "-BE:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Release" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/MusicPlayer.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

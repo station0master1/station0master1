@@ -1,0 +1,89 @@
+# ninja log v5
+4	341	7910598262409633	Musicplayerr_autogen/timestamp	11853b63799b801f
+4	341	7910598262409633	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+4	341	7910598262409633	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+4	341	7910598262409633	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+343	1350	7910598273087392	CMakeFiles/Musicplayerr.dir/Musicplayerr_autogen/mocs_compilation.cpp.obj	1726fe6c001e3b92
+348	1363	7910598273228928	CMakeFiles/Musicplayerr.dir/main.cpp.obj	31f2038a4bba642a
+353	1369	7910598273270506	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+1369	1726	7910598276727563	Musicplayerr.exe	898545f49a81c5cf
+10	218	7910600213240032	Musicplayerr_autogen/timestamp	11853b63799b801f
+10	218	7910600213240032	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+10	218	7910600213240032	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+10	218	7910600213240032	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+224	1688	7917442026030268	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+1688	3262	7917442037068680	Musicplayerr.exe	898545f49a81c5cf
+8	216	7917443992390959	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	216	7917443992390959	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	216	7917443992390959	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	216	7917443992390959	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+222	1521	7917444008430243	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+1521	1842	7917444011341910	Musicplayerr.exe	898545f49a81c5cf
+7	208	7917444612230936	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	208	7917444612230936	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	208	7917444612230936	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	208	7917444612230936	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+214	1509	7917444628149022	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+1509	1691	7917444629648937	Musicplayerr.exe	898545f49a81c5cf
+8	644	7917449214988160	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	644	7917449214988160	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	644	7917449214988160	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	644	7917449214988160	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+652	2075	7917449229988187	CMakeFiles/Musicplayerr.dir/main.cpp.obj	31f2038a4bba642a
+645	2076	7917449229998182	CMakeFiles/Musicplayerr.dir/Musicplayerr_autogen/mocs_compilation.cpp.obj	1726fe6c001e3b92
+657	2085	7917449230088179	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2085	2404	7917449232940737	Musicplayerr.exe	898545f49a81c5cf
+8	198	7918264986960440	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	198	7918264986960440	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	198	7918264986960440	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	198	7918264986960440	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+204	2579	7918265024627426	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2580	4278	7918265036936604	Musicplayerr.exe	898545f49a81c5cf
+8	185	7918265698467865	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	185	7918265698467865	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	185	7918265698467865	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	185	7918265698467865	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+191	2009	7918265719392576	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2009	2209	7918265721002577	Musicplayerr.exe	898545f49a81c5cf
+8	186	7918270692317318	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	186	7918270692317318	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	186	7918270692317318	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	186	7918270692317318	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+192	2044	7918270713605816	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2044	2301	7918270715875818	Musicplayerr.exe	898545f49a81c5cf
+7	183	7918271236243786	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	183	7918271236243786	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	183	7918271236243786	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	183	7918271236243786	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+189	1991	7918271256991066	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+1991	2185	7918271258601071	Musicplayerr.exe	898545f49a81c5cf
+7	186	7918271663285676	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	186	7918271663285676	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	186	7918271663285676	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	186	7918271663285676	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+192	2004	7918271684180827	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2004	2194	7918271685750825	Musicplayerr.exe	898545f49a81c5cf
+7	184	7918272252963969	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	184	7918272252963969	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	184	7918272252963969	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	184	7918272252963969	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+190	2004	7918272273844040	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2004	2203	7918272275454044	Musicplayerr.exe	898545f49a81c5cf
+7	186	7918272707609847	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	186	7918272707609847	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	186	7918272707609847	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	186	7918272707609847	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+192	2002	7918272728481398	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2003	2197	7918272730081397	Musicplayerr.exe	898545f49a81c5cf
+8	229	7918301162836502	Musicplayerr_autogen/timestamp	11853b63799b801f
+8	229	7918301162836502	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+8	229	7918301162836502	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+8	229	7918301162836502	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+235	2229	7918301185986031	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2229	2501	7918301188356036	Musicplayerr.exe	898545f49a81c5cf
+7	187	7918303151958084	Musicplayerr_autogen/timestamp	11853b63799b801f
+7	187	7918303151958084	Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+7	187	7918303151958084	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/timestamp	11853b63799b801f
+7	187	7918303151958084	E:/qt project/Musicplayerr/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/Musicplayerr_autogen/mocs_compilation.cpp	11853b63799b801f
+193	2162	7918303175215723	CMakeFiles/Musicplayerr.dir/widget.cpp.obj	b3e2368c11b58a26
+2162	2368	7918303176925939	Musicplayerr.exe	898545f49a81c5cf

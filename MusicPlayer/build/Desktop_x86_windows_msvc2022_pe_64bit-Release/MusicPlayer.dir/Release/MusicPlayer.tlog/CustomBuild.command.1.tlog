@@ -1,0 +1,36 @@
+^E:\QT PROJECT\MUSICPLAYER\BUILD\DESKTOP_X86_WINDOWS_MSVC2022_PE_64BIT-RELEASE\CMAKEFILES\2D8145FC3DE632EA1CD50628820B3102\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd "E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Release"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\QT PROJECT\MUSICPLAYER\BUILD\DESKTOP_X86_WINDOWS_MSVC2022_PE_64BIT-RELEASE\CMAKEFILES\FC6F538BD77E06D1AEC0CA378AAA5CB4\QRC_ASSET.CPP.RULE
+setlocal
+cd "E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Release"
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+E:\QT\Tools\CMake_64\bin\cmake.exe -E cmake_autorcc "E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/MusicPlayer_autogen.dir/AutoRcc_asset_EWIEGA46WW_Info.json" Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\QT PROJECT\MUSICPLAYER\CMAKELISTS.TXT
+setlocal
+E:\QT\Tools\CMake_64\bin\cmake.exe "-SE:/qt project/MusicPlayer" "-BE:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Release" --check-stamp-file "E:/qt project/MusicPlayer/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

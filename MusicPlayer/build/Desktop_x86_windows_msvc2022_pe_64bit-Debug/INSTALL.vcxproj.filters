@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\CMakeFiles\fe843c8742493e2c25f1c6e395746c31\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{735D1EB0-EB56-3CBD-8E11-E90E1F92484D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

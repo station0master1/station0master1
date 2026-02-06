@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\EWIEGA46WW_Debug\qrc_asset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\EWIEGA46WW_Release\qrc_asset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\EWIEGA46WW_MinSizeRel\qrc_asset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\EWIEGA46WW_RelWithDebInfo\qrc_asset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\qt project\MusicPlayer\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\include_Debug\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\include_Release\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\include_MinSizeRel\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\include_RelWithDebInfo\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\CMakeFiles\9d02d88727063eea3bf837c227522f3d\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\CMakeFiles\dd2aebfa39eb89f77a9b795556aba102\qrc_asset.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\qt project\MusicPlayer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\qt project\MusicPlayer\widget.ui" />
+    <None Include="E:\qt project\MusicPlayer\asset.qrc" />
+    <None Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\autouic_Debug.stamp" />
+    <None Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\autouic_Release.stamp" />
+    <None Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="E:\qt project\MusicPlayer\build\Desktop_x86_windows_msvc2022_pe_64bit-Debug\MusicPlayer_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{735D1EB0-EB56-3CBD-8E11-E90E1F92484D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{225D8DF2-79B3-3D19-B503-2558CB5B377A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{66E3F358-54DE-335E-8C84-5A8EF7AC3EF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
